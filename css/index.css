@@ -1,0 +1,10 @@
+.crossed {
+  text-decoration: line-through;
+}
+
+li {
+  list-style: none;
+  border: 1px solid gray;
+  margin: 5px 0;
+  padding: 4px;
+}
